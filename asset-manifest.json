@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tashakibanova/forms-1/static/css/main.d380fa71.css",
+    "main.js": "/tashakibanova/forms-1/static/js/main.4dbd9c0f.js",
+    "static/js/453.2da0f325.chunk.js": "/tashakibanova/forms-1/static/js/453.2da0f325.chunk.js",
+    "index.html": "/tashakibanova/forms-1/index.html",
+    "main.d380fa71.css.map": "/tashakibanova/forms-1/static/css/main.d380fa71.css.map",
+    "main.4dbd9c0f.js.map": "/tashakibanova/forms-1/static/js/main.4dbd9c0f.js.map",
+    "453.2da0f325.chunk.js.map": "/tashakibanova/forms-1/static/js/453.2da0f325.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d380fa71.css",
+    "static/js/main.4dbd9c0f.js"
+  ]
+}
